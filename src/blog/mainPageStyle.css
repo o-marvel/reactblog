@@ -1,0 +1,21 @@
+.nav{
+    display: flex;
+   list-style-type: none;
+   background-color: #bbc1c7;
+   padding: 5px;
+   justify-content: flex-start;
+}
+.navlink {
+    border: 1px solid #9c9999;
+    padding: 5px 10px;  
+ 
+}
+.navlink:hover {
+    border: 1px solid red;
+    padding: 5px;  
+    background-color: royalblue;
+    color: white;
+}
+.myheight{
+    height: 200px;
+}
